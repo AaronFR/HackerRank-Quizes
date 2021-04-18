@@ -1,0 +1,17 @@
+
+u
+java:S1602("SRemove useless curly braces around statement and then remove useless return keyword(Á’‘³ûÿÿÿÿ8”–úÆ‡/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(äÇÛŞúÿÿÿÿ8ˆóÇ‡/
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(èëô8Íâ“Æ‡/
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(­ØŸÿÿÿÿÿ8©¿‡Ç‡/
+K
+java:S3740"/Provide the parametrized type for this generic.(èëô8Íâ“Æ‡/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ÜÇçˆÿÿÿÿÿ8ş¥üÆ‡/
+u
+java:S1602*"SRemove useless curly braces around statement and then remove useless return keyword(€€ƒ»úÿÿÿÿ8ˆóÇ‡/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(õŠÇ‚8 ÿÆ‡/
+K
+java:S3740"/Provide the parametrized type for this generic.(èëô8Íâ“Æ‡/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ƒÏªîıÿÿÿÿ8 ˜Æ‡/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ö¨²Ç‡/

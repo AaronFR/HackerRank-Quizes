@@ -1,0 +1,17 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(å·ˆ²8Øî§Ë‡/
+L
+java:S3740"/Provide the parametrized type for this generic.(å·ˆ²8Øî§Ë‡/
+}
+java:S4165"`Remove this useless assignment; "v2" already holds the assigned value along all execution paths.(í˜Éå8£Í§Ë‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(è¼ÍÑýÿÿÿÿ8³ù¬Ë‡/
+L
+java:S3740"/Provide the parametrized type for this generic.(£šôú8Øî§Ë‡/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¯È½8à‚®Ë‡/
+‚
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(å·ˆ²8Øî§Ë‡/
+‚
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(£šôú8Øî§Ë‡/
+L
+java:S3740"/Provide the parametrized type for this generic.(£šôú8Øî§Ë‡/

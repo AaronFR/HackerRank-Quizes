@@ -1,0 +1,13 @@
+
+U
+java:S1197"8Move the array designator from the variable to the type.(’©­À8¨Ú×Ç‡/
+T
+java:S1854"7Remove this useless assignment to local variable "arr".(’©­À8ûˆßÇ‡/
+E
+java:S1481"(Remove this unused "arr" local variable.(’©­À8ûˆßÇ‡/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ûß×üÿÿÿÿ
+Z
+java:S1197	"8Move the array designator from the variable to the type.(Ğ·¼ªûÿÿÿÿ8ÑÂŞÇ‡/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ôÉü§ûÿÿÿÿ8ÑÂŞÇ‡/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²çÃ8ÈÅûÇ‡/

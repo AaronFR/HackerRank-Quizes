@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8»æõÊ‡/
+]	java:S125"<This block of commented-out lines of code should be removed.(ÞÌ‚üÿÿÿÿ8»æõÊ‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8Ö¢÷Ê‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8ÚŒË‡/
+]
+java:S1119";Refactor the code to remove this label and the need for it.(æ¯Æ™þÿÿÿÿ8œÍ–Ë‡/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8»æõÊ‡/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«Ù¡×8ùø‚Ë‡/
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(æ¯Æ™þÿÿÿÿ8ÓîŒË‡/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º™¨Î8°ëË‡/

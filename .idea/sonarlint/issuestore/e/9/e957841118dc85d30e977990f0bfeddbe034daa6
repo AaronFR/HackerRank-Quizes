@@ -1,0 +1,23 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çõñíùÿÿÿÿ8Ù›ËŸ‡/
+X	java:S125."<This block of commented-out lines of code should be removed.(¼Á“Ô8öæÄé‡/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ò¸¨­8óóñè‡/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ç­…ï8ÃîëŸ‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²Àóéûÿÿÿÿ8®òÇŸ‡/
+K
+java:S3740)"/Provide the parametrized type for this generic.(ÏÒÓ"8²ËŠé‡/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²©¶Ï8£ÑÒŸ‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÇ£¹üÿÿÿÿ8®¶Ž ‡/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(…œ”n8š£ ‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çÌüÖüÿÿÿÿ8Ë¹ôŸ‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÂˆîüÿÿÿÿ8œ›ÊŸ‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8²ÇÍŸ‡/
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç›å’üÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì—ñÅûÿÿÿÿ8Ü’ëŸ‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿ëÐÛùÿÿÿÿ8ë·ÌŸ‡/
+m
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "<<"(¿ëÐÛùÿÿÿÿ8ÈüÐŸ‡/
+K
+java:S3740)"/Provide the parametrized type for this generic.(ÏÒÓ"8²ËŠé‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡×º¾ÿÿÿÿÿ8ÃœúŸ‡/

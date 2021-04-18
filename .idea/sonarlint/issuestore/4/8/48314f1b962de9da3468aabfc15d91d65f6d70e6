@@ -1,0 +1,12 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¹ÄÍQ8‡‹žø¼.
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8á¢£Õ¯.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó…±µ
+O
+java:S1128"-Remove this unused import 'java.util.BitSet'.(‹¸ÚÁýÿÿÿÿ8á¢£Õ¯.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8á¢£Õ¯.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8á¢£Õ¯.

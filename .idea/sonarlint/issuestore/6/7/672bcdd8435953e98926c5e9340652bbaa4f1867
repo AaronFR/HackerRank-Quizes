@@ -1,0 +1,18 @@
+
+R
+java:S1854"6Remove this useless assignment to local variable "b1".(®†×@8â¥ôô†/
+C
+java:S1481"'Remove this unused "b1" local variable.(®†×@8â¥ôô†/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ªòõô†/
+C
+java:S1481"'Remove this unused "b2" local variable.(²ÒêV8â¥ôô†/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(İ‰¥T8â¥ôô†/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·”§çûÿÿÿÿ8â¥ôô†/
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(·”§çûÿÿÿÿ8â¥ôô†/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8â¥ôô†/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.( Ì·Šùÿÿÿÿ8â¥ôô†/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(áñÛòıÿÿÿÿ8â¥ôô†/
+R
+java:S1854"6Remove this useless assignment to local variable "b2".(²ÒêV8â¥ôô†/

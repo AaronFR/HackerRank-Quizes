@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñ‚‰8½¤Áù†/
+L
+java:S2201"*The return value of "concat" must be used.(µ°œÎıÿÿÿÿ8½¤Áù†/
+G
+java:S2201"*The return value of "concat" must be used.(ãä¾‰8½¤Áù†/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÎ±ú8ÎæĞù†/

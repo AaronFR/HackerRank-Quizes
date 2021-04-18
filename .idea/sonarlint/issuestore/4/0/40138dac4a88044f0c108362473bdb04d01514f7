@@ -1,0 +1,6 @@
+
+D
+java:S1214""Move constants to a class or enum.(½ÂãŠùÿÿÿÿ8êÍØ‡/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÎ±ú
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ü¬–£ùÿÿÿÿ8êÍØ‡/
+X	java:S125"<This block of commented-out lines of code should be removed.(şõ¯™8Ø™ÉŸ‡/

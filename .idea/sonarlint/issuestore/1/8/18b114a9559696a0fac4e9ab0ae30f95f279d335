@@ -1,0 +1,13 @@
+
+B
+java:S2129
+" Remove this "String" constructor(×«éøşÿÿÿÿ8’üÓ–‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñïŒ¯şÿÿÿÿ8·¿Ô–‡/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µÀù½
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÎ±ú
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(ñïŒ¯şÿÿÿÿ8…ÜÔ–‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Çµß§úÿÿÿÿ8Ò³Ñ–‡/
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(†Á¸ÿÿÿÿÿ8§Ò–‡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†Á¸ÿÿÿÿÿ8§Ò–‡/

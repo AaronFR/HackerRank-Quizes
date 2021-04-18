@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°¯ÿÁüÿÿÿÿ8ï‘¢ø†/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÎ±ú8Œ¬Ğù†/
+y	java:S127
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ó¤Óüÿÿÿÿ8ï‘¢ø†/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(°¯ÿÁüÿÿÿÿ8ï‘¢ø†/
+R
+java:S1751"5Remove this "break" statement or make it conditional.(›ûä·8ï‘¢ø†/
+W
+java:S1854
+"5Remove this useless assignment to local variable "i".(Ó¤Óüÿÿÿÿ8ï‘¢ø†/
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Îùƒ§üÿÿÿÿ8âÍÊù†/
